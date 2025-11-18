@@ -1,13 +1,13 @@
 <h2 align="center">👋 Hi, I'm Anurag Mallik</h2>
 <p align="center">
-  🚀 Doctoral Researcher in Computer Vision & Deep Learning  
+  🚀 Graduate Researcher in Computer Vision & Deep Learning  
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:mallika1@udayton.edu">
     <img src="https://img.shields.io/badge/Email-Request%20Access-blue?style=for-the-badge" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mallikanurag/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -24,21 +24,8 @@ Recruiters, professors, and academic committees may **request temporary access**
 
 ## 📘 Featured Private Projects
 
-### 🔹 **Hazardous Object Detection (SAM + ART) – Private**  
-Real-time segmentation + unsupervised anomaly detection for construction worker safety.  
-Part of an NSF-funded research project using SAM, ART, and continuous learning.
-
 ### 🔹 **YOLOv8 Traffic Safety System – Private**  
 Vehicle detection, tracking, danger-zone prediction, and trajectory analysis for road safety.
-
-### 🔹 **3D Image Reconstruction (RL + CNN) – Private**  
-Reconstruction of corrupted images using reinforcement learning and CNN-based implicit structure modeling.
-
-### 🔹 **Infrared Imaging: NUC + Restoration – Private**  
-IR focal plane array non-uniformity correction, noise removal, and super-resolution restoration.
-
-### 🔹 **SRGAN Satellite Super-Resolution – Private**  
-GAN-based satellite image enhancement for improved spatial clarity and downstream analytics.
 
 ---
 
