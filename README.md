@@ -55,15 +55,6 @@ You can also reach me on LinkedIn for faster communication.
 
 ---
 
-## 📈 GitHub Stats (Optional)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Let's Connect  
 I’m always open to collaborations and research discussions!  
 Feel free to reach out for **research opportunities, project reviews, or academic conversations**.
