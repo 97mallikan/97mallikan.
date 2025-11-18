@@ -7,7 +7,7 @@
   <a href="mailto:mallika1@udayton.edu">
     <img src="https://img.shields.io/badge/Email-Request%20Access-blue?style=for-the-badge" />
   </a>
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mallikanurag/)">
+  <a href="https://www.linkedin.com/in/mallikanurag/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -33,7 +33,7 @@ Vehicle detection, tracking, danger-zone prediction, and trajectory analysis for
 If you are a recruiter or faculty member and would like access to any of the above repositories:  
 
 <p>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:mallika1@udayton.edu">
     <img src="https://img.shields.io/badge/Request%20Access-Email%20Me-blue?style=for-the-badge&logo=gmail" />
   </a>
 </p>
