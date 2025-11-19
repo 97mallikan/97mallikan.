@@ -24,11 +24,12 @@ Recruiters, professors, and academic committees may **request temporary access**
 
 ## 📘 Featured Private Projects
 
-### 🔹 **YOLOv8 Traffic Safety System – Private**  
+### 🔹 **YOLOv8 Traffic Safety System – Private**
 Vehicle detection, tracking, danger-zone prediction, and trajectory analysis for road safety.
 
-### 🔹 **Hazardous Object Detection for Construction Safety** 
+### 🔹 **Hazardous Object Detection for Construction Safety**
 Specializing in identifying small tools and hazardous objects within dynamic, real-world construction environments.
+
 ---
 
 ## 📨 Request Access  
